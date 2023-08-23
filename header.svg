@@ -2,9 +2,6 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				.container {
-					background-image : url('image-from-rawpixel-id-5924590-jpeg.jpg');
-				}
 			</style>
 			<div class="container">
 				<img src="image-from-rawpixel-id-5924590-jpeg.jpg">
