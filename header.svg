@@ -3,10 +3,6 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				 @import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&family=Yeseva+One&display=swap');
-<!-- 				@font-face {
-  font-family: myFirstFont;
-  src: url('./Cartoon Blocks Christmas.otf');
-} -->
 				.container:hover {
 					padding : 100px;
 				}
