@@ -53,5 +53,8 @@
 				<h1>Hello There !</h1>
 			</div>
 		</div>
+		<script>
+			console.log('Hello')
+		</script>
 	</foreignObject>
 </svg>
