@@ -1,1 +1,1 @@
-<h1>AMATEUR</h1>
+<h1 style="color :red">AMATEUR</h1>
