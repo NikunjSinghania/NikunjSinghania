@@ -2,20 +2,16 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
+				@font-face {
+  font-family: myFirstFont;
+  src: url(Cartoon Blocks Christmas.otf);
+}
 				.container:hover {
 					padding : 100px;
 				}
 				.container {
 					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
+						myFirstFont;
 					display: flex;
 					flex-direction: column;
 					align-items: center;
