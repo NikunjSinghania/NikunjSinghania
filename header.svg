@@ -2,15 +2,16 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@font-face {
+				 @import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&family=Yeseva+One&display=swap');
+<!-- 				@font-face {
   font-family: myFirstFont;
   src: url('./Cartoon Blocks Christmas.otf');
-}
+} -->
 				.container:hover {
 					padding : 100px;
 				}
 				.container {
-					font-family:myFirstFont;
+					    font-family: 'Tilt Prism', cursive;
 					display: flex;
 					flex-direction: column;
 					align-items: center;
