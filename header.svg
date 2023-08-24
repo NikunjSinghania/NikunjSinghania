@@ -5,7 +5,7 @@
 				.container {
 				width : 1000px;
 				height  : 200px;
-				
+				background-image : linear-gradient(black, yellow);
 				}
 			</style>
 			<div class="container">
