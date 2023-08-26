@@ -62,7 +62,7 @@
 				}
 
 				h1 {
-					font-size: 50px;
+					font-size: 35px;
 					line-height: 1.3;
 					letter-spacing: 5px;
 					text-transform: uppercase;
@@ -76,14 +76,14 @@
 				}
 
 				p {
-					font-size: 20px;
+					font-size: 50px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
 			<div class="container">
 				<h1>Hey There!!</h1>
-				<p>Its Nikunj Singhania</p>
+				<p>Its Nikunj Singhania 🎺</p>
 			</div>
 		</div>
 	</foreignObject>
