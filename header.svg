@@ -23,17 +23,6 @@
 					}
 				}
 
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					66% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
 
 				.container {
 					font-family:
@@ -83,7 +72,7 @@
 			</style>
 			<div class="container">
 				<h1>Hey There!!</h1>
-				<p>Its Nikunj Singhania 🎺</p>
+				<h1>Its Nikunj Singhania 🎺</h1>
 			</div>
 		</div>
 	</foreignObject>
