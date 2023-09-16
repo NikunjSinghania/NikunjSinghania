@@ -57,7 +57,10 @@ background: linear-gradient(54deg, rgba(0,0,0,1) 0%, rgba(1,1,1,1) 51%, rgba(0,6
 						0 12px 5px rgba(0, 0, 0, 0.1);
 				}
 
-				
+				img {
+				height : 200px;
+				width:200px;
+				}
 			</style>
 			<div class="container">
 				<h1>LANGUAGES I KNOW</h1>
