@@ -72,7 +72,6 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/NikunjSinghania/count.svg?"  />
 </div>
 
 ###
